@@ -1,7 +1,13 @@
-/*@import "reset";*/
+@import "reset";
 @import "variables";
 @import "header";
-@import "body_index"; /* leonardo */
+@import "index";
 @import "footer";
-@import "contacto";
-@import "section01"; /* belu */
+
+body{
+	font-family: $fuente-ppal;
+}
+
+.container-fluid{
+	padding: 0px;
+}
