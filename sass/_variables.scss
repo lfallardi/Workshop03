@@ -5,7 +5,6 @@ $color-parrafos: #4a4a4a;
 $color-fondo: #f9f9f9;
 $color-ppal: #31aae2;
 
-
 @mixin titulos-secciones{
 	text-align: center;
 	font-family: $fuente-ppal;
@@ -78,4 +77,5 @@ $color-ppal: #31aae2;
 		border-bottom: 0.5px solid lightgray;
 	}
 }
+
 //font-family: 'Shrikhand', cursive;
